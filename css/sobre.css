@@ -1,0 +1,22 @@
+.main-content1  {
+    background-color: rgb(59, 79, 136);
+    color: white;
+    height: 35vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.main-content1 img {
+    height: auto;
+    border-radius: 30%;
+    width: 80%;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.text-content h3 {
+    padding: 15px 0;
+}

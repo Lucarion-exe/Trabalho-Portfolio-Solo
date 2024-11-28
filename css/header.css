@@ -1,0 +1,30 @@
+#destaque-inicial {
+    background-color: rgb(59, 79, 136);
+    height: 80px
+}
+
+#destaque-inicial h2 {
+    color: whitesmoke;
+    padding: 20px;
+    font-family: "Jaro", sans-serif;
+    font-weight: lighter;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+    padding: 15px 0;
+}
+
+nav ul li {
+    padding: 0 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(59, 79, 136);
+}

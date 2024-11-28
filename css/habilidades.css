@@ -1,0 +1,33 @@
+.main-content2 {
+    background-color: whitesmoke;
+    height: 40vh;
+}
+
+.softs {
+    display: block;
+    list-style-type: disc;
+    margin: 10px 10px;
+    margin-left:500px;
+}
+
+.hards {
+    display: block;
+    list-style-type: disc;
+    margin: 10px 10px;
+    margin-left:500px;
+}
+
+.main-content2 h3 {
+    font-family: "Jaro", sans-serif;
+    font-weight: lighter;
+    color: rgb(59, 79, 136);
+}
+
+.main-content2 img {
+    float: left;
+    margin: 10px;
+    border-radius: 10%;
+    width: 30%;
+    padding-left: 10px;
+    padding-top: 10px;
+}

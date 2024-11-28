@@ -1,0 +1,30 @@
+footer.contato {
+    background-color: rgb(59, 79, 136);
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer.contato h2 {
+    margin-bottom: 20px;
+  }
+  
+  .redes-sociais {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .redes-sociais li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .redes-sociais a {
+    color: whitesmoke;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .redes-sociais a:hover {
+    color: whitesmoke;
+  }
